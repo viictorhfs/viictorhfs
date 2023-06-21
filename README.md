@@ -23,5 +23,5 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viictorhfs&show_icons=true&theme=dracula&count_private=true)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viictorhfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viictorhfs&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula)](https://github.com/viictorhfs/github-readme-stats)
