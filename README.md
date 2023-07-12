@@ -6,12 +6,6 @@
 - 🌍 I can speak Portuguese (native speaker) and English
 <br/><br/>
 
-### 📫 Contact:
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt= "Victor Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhfsantos" />
-</div>
-<br/>
 
 ### ⚡ Skills
 
@@ -22,6 +16,12 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+### 📫 Contact:
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt= "Victor Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhfsantos" />
+</div>
+<br/>
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viictorhfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viictorhfs&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula)](https://github.com/viictorhfs/github-readme-stats)
