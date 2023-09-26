@@ -2,7 +2,7 @@
 <br/>
 
 - 🧑🏽‍💻 I’m 28y old front-end software developer
-- ⚙️ I’m currently learning `NodeJS` and TypeScript `.ts`
+- ⚙️ I’m currently learning `NodeJS`
 - 🌍 I can speak Portuguese (native speaker) and English
 <br/><br/>
 
