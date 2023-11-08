@@ -22,5 +22,4 @@
 </div>
 <br/>
 
-![Victor's GitHub stats](https://github-readme-stats-nine-mu-19.vercel.app/api?username=viictorhfs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats-nine-mu-19.vercel.app/api/top-langs/?username=viictorhfs&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula)](https://github.com/viictorhfs/github-readme-stats)
