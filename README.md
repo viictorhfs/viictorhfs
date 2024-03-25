@@ -1,8 +1,8 @@
 ## Hi there! My name is Victor 👋
 <br/>
 
-- 🧑🏽‍💻 I’m 28y old front-end software developer
-- ⚙️ I’m currently learning `NodeJS`
+- 🧑🏽‍💻 Front-end software developer
+- ⚙️ I’m currently learning Back-end with `NodeJS`
 - 🌍 I can speak Portuguese (native speaker) and English
 <br/><br/>
 
