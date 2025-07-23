@@ -1,8 +1,8 @@
 ## Hi there! My name is Victor 👋
 <br/>
 
-- 🧑🏽‍💻 Full-Stack software developer working with React, Angular, NodeJs
-- 🌍 I can speak Portuguese (native speaker) and English
+- 🧑🏽‍💻 Full-Stack developer working with Angular, React, NodeJs.
+- 🌍 I can speak Portuguese and English.
 <br/><br/>
 
 
